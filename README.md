@@ -8,7 +8,9 @@ Python para projetos de automação do mundo de DevOps
 .venv é um ambiente virtual do Python, que permite criar um espaço isolado para instalar pacotes e dependências sem afetar o sistema global.
 
 instalação no teminal do Linux:
-```sudo apt install python3.10-venv```
+```
+sudo apt install python3.10-venv
+```
 
 instalar pelo pip:
 ```pip install virtualenv```
